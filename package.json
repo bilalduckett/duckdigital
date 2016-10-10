@@ -1,0 +1,39 @@
+{
+  "name": "duck-digital",
+  "version": "1.0.0",
+  "description": "snap svg landing page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilalduckett/duckdigital.git"
+  },
+  "keywords": [
+    "snap",
+    "svg",
+    "js",
+    "animation"
+  ],
+  "author": "Bilal Duckett <<bilalduckett@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.4",
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/bilalduckett/duckdigital/issues"
+  },
+  "homepage": "https://github.com/bilalduckett/duckdigital#readme"
+}
